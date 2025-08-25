@@ -1,0 +1,2 @@
+## Pages
+- [BIMBO - Sistema de Gerenciamento de Candidato](/): Sistema completo para cadastro e gerenciamento de candidato da empresa BIMBO, com controle de documentação e dados pessoais.
