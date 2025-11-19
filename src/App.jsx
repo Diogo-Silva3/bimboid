@@ -53,7 +53,7 @@ function App() {
             <div className="flex justify-between items-center h-16">
               {/* Logo */}
               <div className="flex items-center space-x-3">
-                <img src="https://storage.googleapis.com/hostinger-horizons-assets-prod/cafd6476-e76e-41ac-9d77-cb1c41d10ad9/66aa96ff95668f8afd1294c1fcdb799d.png" alt="BIMBO Logo" className="h-10"/>
+                <img src="/Bimbo.png" alt="BIMBO Logo" className="h-10"/>
                 <div>
                   <h1 className="text-xl font-bold text-gray-900">BIMBO</h1>
                   <p className="text-xs text-gray-500">Sistema de Candidato</p>
@@ -152,7 +152,7 @@ function App() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="text-center">
               <div className="flex items-center justify-center space-x-2 mb-4">
-                <img src="https://storage.googleapis.com/hostinger-horizons-assets-prod/cafd6476-e76e-41ac-9d77-cb1c41d10ad9/66aa96ff95668f8afd1294c1fcdb799d.png" alt="BIMBO Logo" className="h-8"/>
+                <img src="/Bimbo.png" alt="BIMBO Logo" className="h-8"/>
               </div>
               <p className="text-gray-600 text-sm">
                 Sistema de Gerenciamento de Candidato
